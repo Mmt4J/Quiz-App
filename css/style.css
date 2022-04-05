@@ -123,6 +123,7 @@ body{
     color: #444;
     border: 1px solid #444;
     padding: 10px 15px;
+    cursor: pointer;
 }
 
 .footer{
